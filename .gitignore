@@ -1,0 +1,12 @@
+# vscode directory
+.vscode
+
+# astah uml .lock file
+*.asta.lock
+
+# compiled files
+*.class
+
+# .DS_Store, which is for MAC OS desktop service
+*.DS_Store
+
